@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+<group android:checkableBehavior="single">
+    <item android:id="@+id/page1"
+        android:title="FAQ" />
+    <item android:id="@+id/page2"
+        android:title="Course Material"/>
+    <item android:id="@+id/page3"
+        android:title="Time Table"/>
+    <item android:id="@+id/page4"
+        android:title="Alarm"/>
+    <item android:id="@+id/page6"
+        android:title="Circular"/>
+    <item android:id="@+id/page5"
+        android:icon="@drawable/baseline_logout_24"
+        android:title="Logout"/>
+</group>
+</menu>

@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">MyLife</string>
+    <string name="newuser"><b>New User?</b></string>
+    <string name="forgot"><b>Forgot Password?</b></string>
+    <string-array name="Batch">
+        <item>Select Batch</item>
+        <item>2026</item>
+        <item>2025</item>
+        <item>2024</item>
+        <item>2023</item>
+    </string-array>
+    <string-array name="sec">
+        <item>Select Section</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+    </string-array>
+    <string-array name="branch">
+        <item>Select Branch</item>
+        <item>Biotechnology</item>
+        <item>Chemical Engg</item>
+        <item>Civil Engg</item>
+        <item>Computer and Communication Engg</item>
+        <item>Computer Science and Engg</item>
+        <item>Computer and Engg</item>
+        <item>Data Science and Engg</item>
+        <item>Information Technology</item>
+        <item>Biomedical Engg</item>
+        <item>Cyber Physical systems</item>
+        <item>Electrical and Electronics Engg</item>
+        <item>Electronics and Communication Engg</item>
+        <item>Electronics and Instrumentation Engg</item>
+        <item> Mechanical</item>
+        <item>Aeronautical Engg</item>
+        <item>Automobile Engg</item>
+        <item>Industrial Engg</item>
+        <item>Mechanical Engg</item>
+        <item>Mechatronics</item>
+    </string-array>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+</resources>
